@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@900&family=Poppins:wght@600&display=swap');
+
+
+
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #e9d3ab;
+}
+#colomAbout {
+  background-color: #e9d3ab;
+  height: 200px;
+}
+
+#skill {
+  width: 70px;
+  height: 60px;
+  cursor: pointer;
+}
+
+#Kontak {
+  background-color: #e9d3ab;
+  width: 50%;
+  border-radius: 40px;
+}
+
+.center-button {
+  text-align: center;
+}
+
+.btn {
+  background-color: #daae5d;
+}
+.btn:hover {
+  background-color: #daae5d;
+}
+#about{
+  margin-bottom: 200px;
+  padding-top: 50px;
+}
+
+#colomAbout{
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-top: 10px;
+}
+/* #contact {
+  background-color: #e9d3ab;
+} */
+
+/* #skill:hover {
+  width: 80px;
+  height: 60px;
+  transition: 0.6s;
+} */
